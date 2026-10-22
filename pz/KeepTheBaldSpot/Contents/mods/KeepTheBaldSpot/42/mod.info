@@ -1,0 +1,8 @@
+name=Keep The Bald Spot
+id=KeepTheBaldSpot
+author=Your Name
+description=Bald-pattern hairstyles like Picard keep their bald spot when your hair grows.
+poster=poster.png
+icon=icon.png
+modversion=0.1.0
+versionMin=42.0.0

@@ -1,0 +1,5 @@
+{
+  "Sandbox_KeepTheBaldSpot": "Keep The Bald Spot",
+  "Sandbox_KeepTheBaldSpot_Styles": "Bald-pattern hairstyles",
+  "Sandbox_KeepTheBaldSpot_Styles_tooltip": "Hairstyles that keep their bald spot when hair grows, separated by semicolons. Use Style>LongerStyle to let a style grow into another bald-pattern style, for example from a hair mod. Default: Picard;Baldspot;Recede"
+}

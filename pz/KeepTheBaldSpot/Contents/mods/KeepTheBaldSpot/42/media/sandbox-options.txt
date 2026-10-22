@@ -1,0 +1,9 @@
+VERSION = 1,
+
+option KeepTheBaldSpot.Styles
+{
+    type = string,
+    default = Picard;Baldspot;Recede,
+    page = KeepTheBaldSpot,
+    translation = KeepTheBaldSpot_Styles,
+}

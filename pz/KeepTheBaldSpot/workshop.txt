@@ -1,0 +1,11 @@
+version=1
+title=Keep The Bald Spot
+description=In vanilla, a character with the Picard hairstyle wakes up one morning with a full head of hair. This mod keeps the bald spot where it belongs.
+description=
+description=When hair grows on a bald-pattern style (Picard, Bald Spot, Recede by default), the growth is undone, so the bald area stays bald. Haircuts, trims and shaving work as normal.
+description=
+description=Sandbox option "Bald-pattern hairstyles" lets you add styles from hair mods, or let a style grow into a longer bald-pattern style with Style>LongerStyle.
+description=
+description=Safe to add to an existing save. Requires Project Zomboid Build 42.
+tags=Build 42;Realistic;Misc
+visibility=private

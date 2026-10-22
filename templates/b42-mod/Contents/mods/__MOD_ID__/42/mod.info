@@ -1,0 +1,8 @@
+name=__MOD_NAME__
+id=__MOD_ID__
+author=__AUTHOR__
+description=__DESCRIPTION__
+poster=poster.png
+icon=icon.png
+modversion=0.1.0
+versionMin=42.0.0

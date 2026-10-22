@@ -1,0 +1,8 @@
+name=Hello Zomboid
+id=HelloZomboid
+author=Your Name
+description=Starter mod: your character confirms the mod loaded when a game starts.
+poster=poster.png
+icon=icon.png
+modversion=0.1.0
+versionMin=42.0.0
